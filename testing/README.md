@@ -2,6 +2,4 @@
 
 ## List of Examples
 
-## 8/10/16  - Calculator example
-* How to run this file in the mac terminal
-  *  python ./calculator-example.py  
+## 8/10/16  - [Calculator example](https://github.com/jahdasha/Python/blob/master/testing/calculator-example.py)
