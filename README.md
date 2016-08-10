@@ -12,7 +12,7 @@
     * ex: 'There\'s a snake in my boot!'
 
 * String methods
-   1. len()
-   2. lower()
-   3. upper()
+   1. len() = length
+   2. lower() = converts everything to lowercase
+   3. upper() = converts everything to uppercase
    4. str()
