@@ -1,4 +1,4 @@
-# Tipping example
+# Tipping example   8/10/16
 
 meal = 44.50
 tax = 0.0675
