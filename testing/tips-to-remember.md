@@ -8,6 +8,8 @@
   * Use the backslash to use an apostrophe in a string.
     * ex: 'There\'s a snake in my boot!'
 
-## 8/10/16  - Calculator example
-* How to run this file in the mac terminal
-  *  python ./calculator-example.py  
+* String methods
+   1. len()
+   2. lower()
+   3. upper()
+   4. str()
